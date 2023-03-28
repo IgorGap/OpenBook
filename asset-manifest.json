@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OpenBook/static/css/main.ad894e42.css",
+    "main.js": "/OpenBook/static/js/main.586d6a4d.js",
+    "static/media/bg1.png": "/OpenBook/static/media/bg1.7b6b7467cd83f4871538.png",
+    "index.html": "/OpenBook/index.html",
+    "main.ad894e42.css.map": "/OpenBook/static/css/main.ad894e42.css.map",
+    "main.586d6a4d.js.map": "/OpenBook/static/js/main.586d6a4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad894e42.css",
+    "static/js/main.586d6a4d.js"
+  ]
+}
