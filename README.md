@@ -9,7 +9,6 @@
 Запустить командой 
 - npm start
 
-Проект можно посмотреть по ссылке https://igorgap.github.io/OpenBook/
 </p>
 <img width="1440" alt="mainPage" src="./readme-img/1e.PNG">
 <p>
